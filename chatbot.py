@@ -6,7 +6,7 @@ import time
  
  
 st.title("CHATBOT")
-api_key = "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"
+api_key = "enterapi here"
  
 client = Groq(api_key=api_key)
  
